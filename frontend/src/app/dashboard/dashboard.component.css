@@ -1,0 +1,52 @@
+.container {
+	margin-top: 20px;
+	margin-bottom: 50px;
+	color: #1a202c;
+	text-align: left;
+	background-color: #ffffff;
+}
+
+.main-body {
+	padding: 15px;
+}
+
+body {
+
+	background-color: #eee;
+}
+
+
+.badge {
+
+	font-size: 25px;
+	font-weight: 200;
+}
+
+.badge i {
+
+	font-size: 20px;
+	font-weight: 200;
+}
+
+.about-rating {
+
+	font-size: 15px;
+	font-weight: 500;
+	margin-top: 10px;
+}
+
+.total-ratings {
+
+	font-size: 12px;
+
+}
+
+.bg-custom {
+
+	background-color: #b7dd29 !important;
+}
+
+.progress {
+
+	margin-top: 10px;
+}
